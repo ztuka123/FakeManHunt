@@ -1,7 +1,7 @@
 # FakeManHunt
 Fake ManHunt (Documentation) 
 
-## [EN] Commands
+## 🇺🇸 [EN] Commands
 ###
 - Assigning players to groups. There are two groups "Speedrunner" and "Hunter".
 - The command to assign a speedrunner is ``` /manhunt set "player name" speedrunner ```
@@ -14,7 +14,7 @@ Fake ManHunt (Documentation)
 - The "Speedrunner" group should have the color "Green" in the chat and tab.
 - The "Hunter" group should have the color "Red" in the chat and tab.
 
-## [RU] Команды
+## 🇷🇺 [RU] Команды
 ###
 - Распределение игроков по группам. Есть две группы "Спидраннер" и "Охотник".
 - Команда для назначения спидраннера - ```/manhunt set "имя игрока" speedrunner```
