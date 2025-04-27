@@ -1,7 +1,7 @@
 # FakeManHunt
 Fake ManHunt (Documentation) 
 
-## Commands
+## [EN] Commands
 ###
 - Assigning players to groups. There are two groups "Speedrunner" and "Hunter".
 - The command to assign a speedrunner is ``` /manhunt set "player name" speedrunner ```
